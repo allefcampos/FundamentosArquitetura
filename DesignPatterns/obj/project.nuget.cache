@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "b59IG2T0CD6HVT3V1crmE7XrsjWH8GDujuCKOaWjpSR9l1dQeHZE8GGHKch2zI5w/uFEKh+HLOLdOotWpPMf7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ALEFF\\Downloads\\FundamentosArquitetura\\DesignPatterns\\DesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALEFF\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\ALEFF\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\ALEFF\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\ALEFF\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\ALEFF\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\ALEFF\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\ALEFF\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
